@@ -1,0 +1,2 @@
+$(".customer__item").slick({centerMode:!1,centerPadding:"60px",slidesToShow:1,dots:!0,autoplay:!1,responsive:[{breakpoint:1200,settings:{arrows:!1,centerMode:!1,centerPadding:"40px",slidesToShow:1,slidesPerRow:1}},{breakpoint:768,settings:{arrows:!1,centerMode:!1,centerPadding:"40px",slidesToShow:1}},{breakpoint:480,settings:{arrows:!1,centerMode:!1,centerPadding:"40px",slidesToShow:1}},{breakpoint:320,settings:{arrows:!1,centerMode:!1,centerPadding:"40px",slidesToShow:1}}]});
+//# sourceMappingURL=index.ef1f8ec0.js.map
